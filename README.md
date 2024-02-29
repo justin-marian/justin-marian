@@ -4,15 +4,19 @@
 
 <div align="right">
   <h2>A Little about me 🙂</h2>
-  <img src="/pictures/1.png" style="float: left; margin-right: 20px;" width="200" />
-  <p>My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best. Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering. This reflects my dedication and a proactive stance towards navigating challenges.</p>
+  <div style="clear: both;">
+    <img src="/pictures/1.png" style="float: left; margin-right: 20px;" width="200" />
+    <p>My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best. Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering. This reflects my dedication and a proactive stance towards navigating challenges.</p>
+  </div>
 </div>
 <div style="clear: both;"></div>
 
 <div align="left">
   <h2>Education 👨‍🎓 </h2>
-  <img src="/pictures/3.png" style="float: right; margin-left: 20px;" width="200" />
-  <p>As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong>from academia</strong> 🏫 <strong>to the industry</strong> 💼. My education over the past <em>three years</em> at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code>, has equipped me with a solid foundation. I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.</p>
+  <div style="clear: both;">
+    <img src="/pictures/3.png" style="float: right; margin-left: 20px;" width="200" />
+    <p>As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong>from academia</strong> 🏫 <strong>to the industry</strong> 💼. My education over the past <em>three years</em> at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code>, has equipped me with a solid foundation. I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.</p>
+  </div>
 </div>
 <div style="clear: both;"></div>
 
@@ -22,10 +26,9 @@
 
 <h2 align="center">Connect with Me 🤝</h2>
 
-<img src="/pictures/2.png" style="float: left; margin-right: 20px;" width="200" alt="Image P2" />
-<img src="/pictures/4.png" style="float: right; margin-left: 20px;" width="200" alt="Image P4" />
-
 <div align="center">
+  <img src="/pictures/2.png" style="float: left; margin-right: 20px;" width="200" alt="Image P2" />
+  <img src="/pictures/4.png" style="float: right; margin-right: 20px;" width="200" alt="Image P4" />
   <p>
     <a href="mailto:pmarianjustin@gmail.com"><img src="/icons/gmail-original.svg.png" width="40" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;
     <a href="mailto:justin.popescu1605@stud.acs.upb.ro"><img src="/icons/outlook-original.svg.png" width="40" alt="Outlook" /></a>&nbsp;&nbsp;&nbsp;
