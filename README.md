@@ -16,7 +16,7 @@ My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 
 
 As I stand on the threshold of my professional career, I am actively seeking opportunities to transition **from academia** 🏫 **to the industry** 💼. My education over the past *three years* at the `Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest`, has equipped me with a solid foundation. I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.
 
-## Lifelong Learning Journey 🌱
+<h2 align="center">Lifelong Learning Journey 🌱</h2>
 
 <p align="center">
     Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills. I believe in the power of lifelong learning, which has led me to pursue a variety of after-school courses, including a comprehensive series at Hackademy.
