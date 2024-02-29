@@ -18,7 +18,7 @@
 
 <h2 align="center">Education 👨‍🎓</h2>
 
-<img src="/pictures/3.png" align="left" width="200" />
+<img src="/pictures/3.png" align="left" width="150" />
 
 <p align="center">
   As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong><em>from academia</em></strong> 🏫 <strong><em>to the industry</em></strong> 💼.
