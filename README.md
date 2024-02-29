@@ -8,7 +8,11 @@
 
 <img src="/pictures/1.png" align="right" width="250" />
 
-<p align="center">My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best. Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering. This reflects my dedication and a proactive stance towards navigating challenges.</p>
+<p align="center">
+  My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best.
+  Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering.
+  This reflects my dedication and a proactive stance towards navigating challenges.
+</p>
 
 <br>
 
@@ -16,14 +20,19 @@
 
 <img src="/pictures/3.png" align="left" width="200" />
 
-<p align="center">As I stand on the threshold of my professional career, I am actively seeking opportunities to transition **from academia** 🏫 **to the industry** 💼. My education over the past *three years* at the `Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest`, has equipped me with a solid foundation. I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.</p>
+<p align="center">
+  As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong><em>from academia</em></strong> 🏫 <strong><em>to the industry</em></strong> 💼.
+  My education over the past <em>three years</em> at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code>, has equipped me with a solid foundation.
+  I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.
+</p>
 
 <br><br>
 
 <h2 align="center">Workshops 🌱</h2>
 
 <p align="center">
-  Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills. I believe in the power of lifelong learning, which has led me to pursue a variety of after-school courses, including a comprehensive series at Hackademy.
+  Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills.
+  I believe in the power of lifelong learning, which has led me to pursue a variety of after-school courses, including a comprehensive series at Hackademy.
 </p>
 
 <h2 align="center">Connect with Me 🤝</h2>
