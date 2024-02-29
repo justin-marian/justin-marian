@@ -4,7 +4,7 @@
   <img src="/pictures/wallpaper.jpg">
 </p>
 
-<h2 align="center">A Little about me 🙂</h2>
+<h2 align="center">About me 🙂</h2>
 
 <img src="/pictures/1.png" align="right" width="250" />
 
@@ -20,11 +20,11 @@
 
 <br><br>
 
-<h2 align="center"> Lifelong Learning Journey 🌱</h2>
+<h2 align="center">Workshops 🌱</h2>
 
-<div align="center">
+<p align="center">
   Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills. I believe in the power of lifelong learning, which has led me to pursue a variety of after-school courses, including a comprehensive series at Hackademy.
-</div>
+</p>
 
 <h2 align="center">Connect with Me 🤝</h2>
 
