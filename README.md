@@ -8,17 +8,17 @@
 
 <img src="/pictures/1.png" align="right" width="250" />
 
-My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best. Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering. This reflects my dedication and a proactive stance towards navigating challenges.
+<p align="center">My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best. Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering. This reflects my dedication and a proactive stance towards navigating challenges.</p>
 
 <br>
 
 <h2 align="center">Education 👨‍🎓</h2>
 
-<img src="/pictures/3.png" align="left" width="150" />
+<img src="/pictures/3.png" align="left" width="200" />
 
-As I stand on the threshold of my professional career, I am actively seeking opportunities to transition **from academia** 🏫 **to the industry** 💼. My education over the past *three years* at the `Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest`, has equipped me with a solid foundation. I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.
+<p align="center">As I stand on the threshold of my professional career, I am actively seeking opportunities to transition **from academia** 🏫 **to the industry** 💼. My education over the past *three years* at the `Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest`, has equipped me with a solid foundation. I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.</p>
 
-<br>
+<br><br>
 
 <h2 align="center"> Lifelong Learning Journey 🌱</h2>
 
