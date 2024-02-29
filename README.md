@@ -6,9 +6,11 @@
 
 <h2 align="center">A Little about me 🙂</h2>
 
-<img src="/pictures/1.png" align="right" width="200" />
+<img src="/pictures/1.png" align="right" width="250" />
 
 My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best. Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering. This reflects my dedication and a proactive stance towards navigating challenges.
+
+<br>
 
 <h2 align="center">Education 👨‍🎓</h2>
 
