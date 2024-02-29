@@ -6,7 +6,7 @@
 
 <h2 align="center">About me 🙂</h2>
 
-<img src="/pictures/1.png" align="right" width="250" />
+<img src="/pictures/1.png" align="right" width="200" />
 
 <p align="center">
   My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best.
@@ -26,7 +26,7 @@
   I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">Workshops 🌱</h2>
 
