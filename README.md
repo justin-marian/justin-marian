@@ -4,14 +4,13 @@
 
 <h1 align="center">Hi there, I'm Justin Marian 👋</h1>
 
-<h2 align="left">About me🙂</h2>
+<h2 align="center">About me🙂</h2>
 
 <img src="/pictures/1.png" align="right" width="200" />
 
 My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best. Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering.
-This reflects my dedication and a proactive stance towards navigating challenges.
 
-<h2 align="right">Education 👨‍🎓</h2>
+<h2 align="center">Education 👨‍🎓</h2>
 
 <img src="/pictures/3.png" align="left" width="200" />
 
