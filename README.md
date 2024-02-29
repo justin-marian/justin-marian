@@ -1,8 +1,8 @@
+<h1 align="center">Hi there, I'm Justin Marian 👋</h1>
+
 <p align="center">
   <img src="/pictures/wallpaper.jpg">
 </p>
-
-<h1 align="center">Hi there, I'm Justin Marian 👋</h1>
 
 <h2 align="center">A Little about me 🙂</h2>
 
