@@ -50,7 +50,7 @@
     <a href="https://discord.gg/418065447137574922">
     <img src="/icons/discord-icon.svg" width="40" alt="Discord">
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://wa.me/0773977421">
+    <a href="https://wa.me/+40773977421">
     <img src="/icons/whatsapp-origin.svg.png" width="40" alt="Whatsapp">
     </a>
 </p>
