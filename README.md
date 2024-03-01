@@ -6,7 +6,7 @@
 
 <h2 align="center">About me 🙂</h2>
 
-<img src="/pictures/1.png" align="right" width="200" />
+<img src="/pictures/1.png" align="right" width="250" />
 
 <p align="center">
   My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best.
@@ -18,17 +18,17 @@
 
 <h2 align="center">Education 👨‍🎓</h2>
 
-<img src="/pictures/3.png" align="left" width="150" />
+<img src="/pictures/3.png" align="left" width="200" />
 
-<p align="center">
+<p align="center" style="margin-bottom: 5px;">
   As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong><em>from academia</em></strong> 🏫 <strong><em>to the industry</em></strong> 💼.
   My education over the past <em>three years</em> at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code>, has equipped me with a solid foundation.
-  I'm eager to leverage this knowledge, collaborating with motivated teams to foster both personal and professional growth.
+  I'm eager to leverage this acquired knowledge, actively collaborating with highly motivated teams to foster significant personal and professional growth.
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">Workshops 🌱</h2>
+<h2 align="center">Connect with Me 🤝</h2>
 
 <p align="center">
   Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills.
@@ -46,6 +46,12 @@
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/justin-mp/">
     <img src="/icons/linkedin-original.svg" width="40" alt="LinkedIn">
+    </a>
+    <a href="https://wa.me/0773977421">
+    <img src="/icons/whtsapp-original.png" width="40" alt="Whatsapp">
+    </a>
+    <a href="https://discord.gg/418065447137574922">
+    <img src="/icons/discord-original.svg" width="40" alt="Discord">
     </a>
 </p>
 
