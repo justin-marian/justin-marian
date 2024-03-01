@@ -26,8 +26,6 @@
   I'm eager to leverage this acquired knowledge, actively collaborating with highly motivated teams to foster significant personal and professional growth.
 </p>
 
-<br>
-
 <h2 align="center">Workshops 🌱</h2>
 
 <p align="center">
