@@ -18,7 +18,7 @@
 
 <h2 align="center">Education 👨‍🎓</h2>
 
-<img src="/pictures/3.png" align="left" width="200" />
+<img src="/pictures/4.png" align="left" width="200" />
 
 <p align="center" style="margin-bottom: 5px;">
   As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong><em>from academia</em></strong> 🏫 <strong><em>to the industry</em></strong> 💼.
@@ -26,7 +26,7 @@
   I'm eager to leverage this acquired knowledge, actively collaborating with highly motivated teams to foster significant personal and professional growth.
 </p>
 
-<br><br><br>
+<br>
 
 <h2 align="center">Workshops 🌱</h2>
 
