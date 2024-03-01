@@ -64,6 +64,7 @@
   <img src="/icons/java-original.svg" width="40" alt="Java">&nbsp;&nbsp;&nbsp;
   <img src="/icons/python-original.svg" width="40" alt="Python">&nbsp;&nbsp;&nbsp;
   <img src="/icons/matlab-original.svg" width="40" alt="MATLAB">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/mysql-original-wordmark.svg" width="40" alt="MySQL">&nbsp;&nbsp;&nbsp;
   <img src="/icons/scala-original.svg" width="40" alt="Scala">&nbsp;&nbsp;&nbsp;
   <img src="/icons/haskell-original.svg" width="40" alt="Haskell">&nbsp;&nbsp;&nbsp;
   <img src="/icons/html5-original.svg" width="40" alt="HTML5">&nbsp;&nbsp;&nbsp;
