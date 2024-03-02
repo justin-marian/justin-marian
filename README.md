@@ -61,6 +61,7 @@
   <img src="/icons/c-original.svg" width="40" alt="C">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cplusplus-original.svg" width="40" alt="C++">&nbsp;&nbsp;&nbsp;
   <img src="/icons/bash-original.svg" width="40" alt="Bash">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/cmake-original.svg" width="40" alt="CMake">&nbsp;&nbsp;&nbsp;
   <img src="/icons/makefile-original.svg" width="40" alt="Makefile">&nbsp;&nbsp;&nbsp;
   <img src="/icons/java-original.svg" width="40" alt="Java">&nbsp;&nbsp;&nbsp;
   <img src="/icons/python-original.svg" width="40" alt="Python">&nbsp;&nbsp;&nbsp;
