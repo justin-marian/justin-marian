@@ -76,9 +76,9 @@
   <img src="/icons/git-plain.svg" width="40" alt="Git">&nbsp;&nbsp;&nbsp;
   <img src="/icons/github-original.svg" width="40" alt="GitHub">&nbsp;&nbsp;&nbsp;
   <img src="/icons/flask-original.svg" width="40" alt="Flask">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/latex-original.svg" width="40" alt="LaTeX">&nbsp;&nbsp;&nbsp;
   <img src="/icons/vscode-original.svg" width="40" alt="VS Code">&nbsp;&nbsp;&nbsp;
   <img src="/icons/visualstudio-plain.svg" width="40" alt="Visual Studio">&nbsp;&nbsp;&nbsp;
   <img src="/icons/intellij-original.svg" width="40" alt="IntelliJ">&nbsp;&nbsp;&nbsp;
   <img src="/icons/docker-original.svg" width="40" alt="Docker">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/latex-original.svg" width="40" alt="LaTeX">&nbsp;&nbsp;&nbsp;
 </p>
