@@ -61,6 +61,7 @@
   <img src="/icons/c-original.svg" width="40" alt="C">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cplusplus-original.svg" width="40" alt="C++">&nbsp;&nbsp;&nbsp;
   <img src="/icons/bash-original.svg" width="40" alt="Bash">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/linux-original.svg" width="40" alt="Linux">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cmake-original.svg" width="40" alt="CMake">&nbsp;&nbsp;&nbsp;
   <img src="/icons/makefile-original.svg" width="40" alt="Makefile">&nbsp;&nbsp;&nbsp;
   <img src="/icons/java-original.svg" width="40" alt="Java">&nbsp;&nbsp;&nbsp;
@@ -74,7 +75,6 @@
   <img src="/icons/javascript-original.svg" width="40" alt="JavaScript">&nbsp;&nbsp;&nbsp;
   <img src="/icons/git-plain.svg" width="40" alt="Git">&nbsp;&nbsp;&nbsp;
   <img src="/icons/github-original.svg" width="40" alt="GitHub">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/linux-original.svg" width="40" alt="Linux">&nbsp;&nbsp;&nbsp;
   <img src="/icons/flask-original.svg" width="40" alt="Flask">&nbsp;&nbsp;&nbsp;
   <img src="/icons/vscode-original.svg" width="40" alt="VS Code">&nbsp;&nbsp;&nbsp;
   <img src="/icons/visualstudio-plain.svg" width="40" alt="Visual Studio">&nbsp;&nbsp;&nbsp;
