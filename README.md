@@ -78,6 +78,7 @@
   <img src="/icons/vscode-original.svg" width="40" alt="VS Code">&nbsp;&nbsp;&nbsp;
   <img src="/icons/visualstudio-plain.svg" width="40" alt="Visual Studio">&nbsp;&nbsp;&nbsp;
   <img src="/icons/intellij-original.svg" width="40" alt="IntelliJ">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/mysql-original-wordmark.svg" width="40" alt="MySQL">&nbsp;&nbsp;&nbsp;
   <img src="/icons/docker-original.svg" width="40" alt="Docker">&nbsp;&nbsp;&nbsp;
   <img src="/icons/linux-original.svg" width="40" alt="Linux">
 </p>
