@@ -69,6 +69,7 @@
   <img src="/icons/html5-original.svg" width="40" alt="HTML5">&nbsp;&nbsp;&nbsp;
   <img src="/icons/css3-original.svg" width="40" alt="CSS3">&nbsp;&nbsp;&nbsp;
   <img src="/icons/javascript-original.svg" width="40" alt="JavaScript">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/typescript-original.svg" width="40" alt="TypeScript">&nbsp;&nbsp;&nbsp;
   <img src="/icons/react-original.svg" width="40" alt="React">&nbsp;&nbsp;&nbsp;
   <img src="/icons/redux-original.svg" width="40" alt="Redux">&nbsp;&nbsp;&nbsp;
   <img src="/icons/npm-original-wordmark.svg" width="40" alt="Redux">&nbsp;&nbsp;&nbsp;
