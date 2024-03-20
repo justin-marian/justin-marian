@@ -55,13 +55,14 @@
     </a>
 </p>
 
-<h2 align="center">Languages and Tools 🛠️</h2>
+<h2 align="center">⚙️ Technical Skills 🛠️</h2>
 
 <p align="center">
   <img src="/icons/c-original.svg" width="40" alt="C">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cplusplus-original.svg" width="40" alt="C++">&nbsp;&nbsp;&nbsp;
   <img src="/icons/bash-original.svg" width="40" alt="Bash">&nbsp;&nbsp;&nbsp;
   <img src="/icons/makefile-original.svg" width="40" alt="Makefile">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/cmake-original.svg" width="40" alt="CMake">&nbsp;&nbsp;&nbsp;
   <img src="/icons/java-original.svg" width="40" alt="Java">&nbsp;&nbsp;&nbsp;
   <img src="/icons/python-original.svg" width="40" alt="Python">&nbsp;&nbsp;&nbsp;
   <img src="/icons/matlab-original.svg" width="40" alt="MATLAB">&nbsp;&nbsp;&nbsp;
@@ -78,7 +79,7 @@
   <img src="/icons/github-original.svg" width="40" alt="GitHub">&nbsp;&nbsp;&nbsp;
   <img src="/icons/opengl-original.svg" width="40" alt="OpenGL">&nbsp;&nbsp;&nbsp;
   <img src="/icons/jupyter-original-wordmark.svg" width="40" alt="Jupyter">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/arduino-original.svg" width="40" alt="Arduino">&nbsp;&nbsp;&nbsp;
+  <!-- <img src="/icons/arduino-original.svg" width="40" alt="Arduino">&nbsp;&nbsp;&nbsp; -->
   <img src="/icons/vscode-original.svg" width="40" alt="VS Code">&nbsp;&nbsp;&nbsp;
   <img src="/icons/visualstudio-plain.svg" width="40" alt="Visual Studio">&nbsp;&nbsp;&nbsp;
   <img src="/icons/intellij-original.svg" width="40" alt="IntelliJ">&nbsp;&nbsp;&nbsp;
