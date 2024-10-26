@@ -58,13 +58,13 @@
 <h2 align="center">⚙️ Technical Skills 🛠️</h2>
 
 <p align="center">
+  <img src="/icons/python-original.svg" width="40" alt="Python">&nbsp;&nbsp;&nbsp;
   <img src="/icons/c-original.svg" width="40" alt="C">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cplusplus-original.svg" width="40" alt="C++">&nbsp;&nbsp;&nbsp;
   <img src="/icons/bash-original.svg" width="40" alt="Bash">&nbsp;&nbsp;&nbsp;
   <img src="/icons/makefile-original.svg" width="40" alt="Makefile">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cmake-original.svg" width="40" alt="CMake">&nbsp;&nbsp;&nbsp;
   <img src="/icons/java-original.svg" width="40" alt="Java">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/python-original.svg" width="40" alt="Python">&nbsp;&nbsp;&nbsp;
   <img src="/icons/matlab-original.svg" width="40" alt="MATLAB">&nbsp;&nbsp;&nbsp;
   <img src="/icons/scala-original.svg" width="40" alt="Scala">&nbsp;&nbsp;&nbsp;
   <img src="/icons/haskell-original.svg" width="40" alt="Haskell">&nbsp;&nbsp;&nbsp;
