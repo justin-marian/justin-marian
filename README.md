@@ -59,14 +59,20 @@
 
 <p align="center">
   <img src="/icons/python-original.svg" width="40" alt="Python">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/jupyter-original-wordmark.svg" width="40" alt="Jupyter">&nbsp;&nbsp;
+  <img src="/icons/bash-original.svg" width="40" alt="Bash">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/linux-original.svg" width="40" alt="Linux">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/git-plain.svg" width="40" alt="Git">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/github-original.svg" width="40" alt="GitHub">&nbsp;&nbsp;&nbsp;
   <img src="/icons/c-original.svg" width="40" alt="C">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cplusplus-original.svg" width="40" alt="C++">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/bash-original.svg" width="40" alt="Bash">&nbsp;&nbsp;&nbsp;
   <img src="/icons/makefile-original.svg" width="40" alt="Makefile">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cmake-original.svg" width="40" alt="CMake">&nbsp;&nbsp;&nbsp;
   <img src="/icons/java-original.svg" width="40" alt="Java">&nbsp;&nbsp;&nbsp;
   <img src="/icons/matlab-original.svg" width="40" alt="MATLAB">&nbsp;&nbsp;&nbsp;
   <img src="/icons/scala-original.svg" width="40" alt="Scala">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/flask-original.svg" width="40" alt="Flask">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/latex-original.svg" width="40" alt="LaTeX">&nbsp;&nbsp;&nbsp;
   <img src="/icons/haskell-original.svg" width="40" alt="Haskell">&nbsp;&nbsp;&nbsp;
   <img src="/icons/html5-original.svg" width="40" alt="HTML5">&nbsp;&nbsp;&nbsp;
   <img src="/icons/css3-original.svg" width="40" alt="CSS3">&nbsp;&nbsp;&nbsp;
@@ -75,18 +81,12 @@
   <img src="/icons/react-original.svg" width="40" alt="React">&nbsp;&nbsp;&nbsp;
   <img src="/icons/redux-original.svg" width="40" alt="Redux">&nbsp;&nbsp;&nbsp;
   <img src="/icons/npm-original-wordmark.svg" width="40" alt="Redux">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/git-plain.svg" width="40" alt="Git">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/github-original.svg" width="40" alt="GitHub">&nbsp;&nbsp;&nbsp;
   <img src="/icons/opengl-original.svg" width="40" alt="OpenGL">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/jupyter-original-wordmark.svg" width="40" alt="Jupyter">&nbsp;&nbsp;&nbsp;
   <!-- <img src="/icons/arduino-original.svg" width="40" alt="Arduino">&nbsp;&nbsp;&nbsp; -->
   <img src="/icons/vscode-original.svg" width="40" alt="VS Code">&nbsp;&nbsp;&nbsp;
   <img src="/icons/visualstudio-plain.svg" width="40" alt="Visual Studio">&nbsp;&nbsp;&nbsp;
   <img src="/icons/intellij-original.svg" width="40" alt="IntelliJ">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/flask-original.svg" width="40" alt="Flask">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/latex-original.svg" width="40" alt="LaTeX">&nbsp;&nbsp;&nbsp;
   <img src="/icons/oracledb-original.svg" width="40" alt="OracleDB">&nbsp;&nbsp;&nbsp;
   <img src="/icons/mysql-original-wordmark.svg" width="40" alt="MySQL">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/docker-original.svg" width="40" alt="Docker">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/linux-original.svg" width="40" alt="Linux">
+  <img src="/icons/docker-original.svg" width="40" alt="Docker">
 </p>
