@@ -28,12 +28,12 @@
 
 <br>
 
-<h2 align="center">Workshops 🌱</h2>
+<!-- <h2 align="center">Workshops 🌱</h2> -->
 
-<p align="center">
-  Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills.
-  I believe in the power of lifelong learning, which has led me to pursue a variety of after-school courses at <a href="https://www.ccna.ro/">Hackademy</a>.
-</p>
+<!--<p align="center"> -->
+<!--  Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills. -->
+<!--  I believe in the power of lifelong learning, which has led me to pursue a variety of after-school courses at <a href="https://www.ccna.ro/">Hackademy</a>. -->
+<!-- </p> -->
 
 <h2 align="center">Connect with Me 🤝</h2>
 
