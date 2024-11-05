@@ -10,7 +10,7 @@
 
 <p align="center">
   My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best.
-  Valuing the power of continuous learning 📚 above the pursuit of rankings, I've cultivated a diverse skill set in programming and systems engineering.
+  Valuing the power of continuous learning 📚, I've cultivated a diverse skill set in programming and systems engineering.
   This clearly reflects my deep dedication and proactive, resilient approach towards skillfully navigating complex challenges.
 </p>
 
