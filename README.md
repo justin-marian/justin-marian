@@ -25,7 +25,7 @@
 <img src="/pictures/2.png" align="left" width="200"/>
 
 <p align="center"> 
-  My engineering studies have enhanced my analytical thinking and technical expertise at the <br><code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> 🏫 has given me a solid foundation in computational principles and problem-solving strategies. Now, I’m looking forward to applying my knowledge in practical settings, exploring new challenges, and contributing to meaningful projects. 💼
+  The engineering studies have enhanced my analytical thinking and technical expertise at the <code>Faculty of Automatic Control and Computer Science, University of Politehnica Bucharest</code> 🏫 has given me a solid foundation in computational principles and problem-solving strategies. Now, I’m looking forward to applying my knowledge in practical settings, exploring new challenges, and contributing to meaningful projects. 💼
 </p>
 
 <!-- <p align="center" style="margin-bottom: 5px;">
