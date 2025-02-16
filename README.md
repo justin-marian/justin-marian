@@ -72,7 +72,7 @@
   <img src="/icons/pytorch-original.svg" width="40" alt="Pytorch">&nbsp;&nbsp;&nbsp;
   <img src="/icons/tensorflow-original.svg" width="40" alt="Tensorflow">&nbsp;&nbsp;&nbsp;
   <img src="/icons/scikitlearn-original.svg" width="40" alt="ScikitLearn">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/matPlotlib-original.svg" width="40" alt="MatPlotlib">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/matplotlib-original.svg" width="40" alt="MatPlotlib">&nbsp;&nbsp;&nbsp;
   <img src="/icons/opencv-original.svg" width="40" alt="OpenCV">&nbsp;&nbsp;&nbsp;
   <img src="/icons/plotly-original.svg" width="40" alt="Plotly">&nbsp;&nbsp;&nbsp;
   <img src="/icons/pypi-original.svg" width="40" alt="Pypi">&nbsp;&nbsp;&nbsp;
