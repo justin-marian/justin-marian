@@ -9,7 +9,7 @@
 <img src="/pictures/1.png" align="right" width="250" />
 
 <p align="center"> 
-  As a fourth-year Computer Science student, I am always eager to learn and push my skills further. 🚀 My journey has been shaped by hands-on experience in programming, algorithms, and systems engineering, allowing me to build efficient solutions and adapt to evolving technologies.
+  As a fourth-year Computer Science student, I am always eager to learn and push my skills further. 🚀 My journey has been shaped by hands-on experience in programming, algorithms, and systems engineering, allowing me to build efficient solutions and adapt to evolving technologies. 🤖
 </p>
 
 <!-- <p align="center">
