@@ -9,7 +9,7 @@
 <img src="/pictures/1.png" align="right" width="250" />
 
 <p align="center"> 
-  As a fourth-year Computer Science student, I am driven by curiosity and a strong desire to keep working. 🚀 Through hands-on experience in programming, algorithms, and systems engineering, I have sharpened my skills in solving challenging problems and building efficient solutions.
+  As a fourth-year Computer Science student, I am driven by curiosity and a strong desire to keep working. 🚀 Through hands-on experience in programming, algorithms, and systems engineering. I have sharpened my skills in solving problems, developing practical solutions, and adapting to new technologies.
 </p>
 
 <!-- <p align="center">
@@ -25,7 +25,7 @@
 <img src="/pictures/2.png" align="left" width="200"/>
 
 <p align="center"> 
-  As I approach the completion of my engineering degree, I look forward to applying my knowledge in real-world scenarios. 🏫 Studying at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> has refined my analytical thinking and technical proficiency. With a strong foundation in computational principles, I am eager to contribute to impactful projects and grow within a dynamic industry. 💼🚀
+  As I approach the completion of my engineering degree, I look forward to applying my knowledge in real-world scenarios. 🏫 Studying at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> has refined my analytical thinking and technical proficiency. With a strong foundation in computational principles, I am eager to contribute to impactful projects and grow within a dynamic industry. 💼
 </p>
 
 <!-- <p align="center" style="margin-bottom: 5px;">
