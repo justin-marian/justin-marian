@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Justin Marian 👋</h1>
+<h1 align="center">
+  <a href="https://github.com/justin-marian/justin-marian/blob/main/documents/resume.pdf" target="__blank_" style="text-decoration: none;">
+    Hi there, I'm Justin Marian 👋
+  </a>
+</h1>
 
 <p align="center">
   <img src="/pictures/wallpaper.jpg">
