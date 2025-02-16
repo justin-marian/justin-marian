@@ -64,9 +64,9 @@
   <img src="/icons/jupyter-original-wordmark.svg" width="40" alt="Jupyter">&nbsp;&nbsp;
   <img src="/icons/anaconda-original.svg" width="40" alt="Anaconda">&nbsp;&nbsp;
   <img src="/icons/bash-original.svg" width="40" alt="Bash">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/linux-original.svg" width="40" alt="Linux">&nbsp;&nbsp;&nbsp;
   <img src="/icons/git-plain.svg" width="40" alt="Git">&nbsp;&nbsp;&nbsp;
   <img src="/icons/github-original.svg" width="40" alt="GitHub">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/linux-original.svg" width="40" alt="Linux">&nbsp;&nbsp;&nbsp;
   <img src="/icons/c-original.svg" width="40" alt="C">&nbsp;&nbsp;&nbsp;
   <img src="/icons/cplusplus-original.svg" width="40" alt="C++">&nbsp;&nbsp;&nbsp;
   <img src="/icons/makefile-original.svg" width="40" alt="Makefile">&nbsp;&nbsp;&nbsp;
