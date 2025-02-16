@@ -1,16 +1,33 @@
+<style>
+  .box {
+    border: 2px solid #4CAF50;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px auto;
+    background-color:rgba(33, 32, 32, 0);
+    width: 70vw;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .box h2 {
+    margin-top: 0;
+  }
+</style>
+
 <h1 align="center">Hi there, I'm Justin Marian 👋</h1>
 
 <p align="center">
   <img src="/pictures/wallpaper.jpg">
 </p>
 
-<h2 align="center">About me 🙂</h2>
-
-<img src="/pictures/1.png" align="right" width="250"/>
-
-<p align="center"> 
-  As a fourth-year Computer Science student, I am driven by curiosity and a relentless pursuit of knowledge. 🚀 My journey blends hands-on experience in programming, algorithms, and systems engineering with a strong commitment to problem-solving. 💻
-</p>
+<div class="box">
+  <h2 align="center">About Me 🙂</h2>
+  <img src="/pictures/1.png" align="right" width="250"/>
+  <p align="center"> 
+    As a fourth-year Computer Science student, I am driven by curiosity and a relentless pursuit of knowledge. 🚀 
+    My journey blends hands-on experience in programming, algorithms, and systems engineering with a strong commitment to problem-solving. 💻
+  </p>
+</div>
 
 <!-- <p align="center">
   My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best.
@@ -18,15 +35,17 @@
   This clearly reflects my deep dedication and proactive, resilient approach towards skillfully navigating complex challenges.
 </p> -->
 
-<br><br>
+<br>
 
-<h2 align="center">Education 👨‍🎓</h2>
-
-<img src="/pictures/2.png" align="left" width="200"/>
-
-<p align="center"> 
-  As I complete my engineering studies, I'm eager to transition <strong><em>from academia</em></strong> 🏫 to the <strong><em>engineering industry</em></strong> 💼. My time at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> has strengthened my technical expertise and adaptability. Now, I'm eager to take on new challenges, make an impact, and grow in a dynamic environment. 🚀
-</p>
+<div class="box">
+  <h2 align="center">Education 👨‍🎓</h2>
+  <img src="/pictures/2.png" align="left" width="200"/>
+  <p align="center"> 
+    As I complete my engineering studies, I'm eager to transition <strong><em>from academia</em></strong> 🏫 to the <strong><em>engineering industry</em></strong> 💼. 
+    My time at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> has strengthened my technical expertise and adaptability. 
+    Now, I'm eager to take on new challenges, make an impact, and grow in a dynamic environment. 🚀
+  </p>
+</div>
 
 <!-- <p align="center" style="margin-bottom: 5px;">
   As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong><em>from academia</em></strong> 🏫 <strong><em>to the industry</em></strong> 💼.
