@@ -24,15 +24,15 @@
 
 <img src="/pictures/2.png" align="left" width="200" />
 
+<p align="center" style="margin-bottom: 5px;"> 
+  As I complete my engineering studies, I'm eager to transition <strong><em>from academia</em></strong> 🏫 to the <strong><em>engineering industry</em></strong> 💼. My time at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> has strengthened my technical expertise and adaptability. Now, I'm eager to take on new challenges, make an impact, and grow in a dynamic environment. 🚀
+</p>
+
 <!-- <p align="center" style="margin-bottom: 5px;">
   As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong><em>from academia</em></strong> 🏫 <strong><em>to the industry</em></strong> 💼.
   My education over the past <em>three years</em> at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code>, has equipped me with a solid foundation.
   I'm eager to leverage this acquired knowledge, actively collaborating with highly motivated teams to foster significant personal and professional growth.
 </p> -->
-
-<p align="center" style="margin-bottom: 5px;"> 
-  As I complete my engineering studies, I'm eager to transition <strong><em>from academia</em></strong> 🏫 to the <strong><em>engineering industry</em></strong> 💼. My time at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> has strengthened my technical expertise and adaptability. Now, I'm eager to take on new challenges, make an impact, and grow in a dynamic environment. 🚀
-</p>
 
 <br>
 
