@@ -12,12 +12,6 @@
   As a fourth-year Computer Science student, I am always eager to learn and push my skills further. 🚀 My journey has been shaped by hands-on experience in programming, algorithms, and systems engineering, allowing me to build efficient solutions and adapt to evolving technologies. 🤖
 </p>
 
-<!-- <p align="center">
-  My path in Computer Science 💻 is driven by a deep passion for discovery 🌟 and a commitment to always give my best.
-  Valuing the power of continuous learning 📚, I've cultivated a diverse skill set in programming and systems engineering.
-  This clearly reflects my deep dedication and proactive, resilient approach towards skillfully navigating complex challenges.
-</p> -->
-
 <br>
 
 <h2 align="center">Education 👨‍🎓</h2>
@@ -28,20 +22,7 @@
   The engineering studies have enhanced my analytical thinking and technical expertise at the <code>Faculty of Automatic Control and Computer Science, University of Politehnica Bucharest</code> 🏫 has given me a solid foundation in computational principles and problem-solving strategies. Now, I’m looking forward to applying my knowledge in practical settings, exploring new challenges, and contributing to meaningful projects. 💼
 </p>
 
-<!-- <p align="center" style="margin-bottom: 5px;">
-  As I stand on the threshold of my professional career, I am actively seeking opportunities to transition <strong><em>from academia</em></strong> 🏫 <strong><em>to the industry</em></strong> 💼.
-  My education over the past <em>three years</em> at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code>, has equipped me with a solid foundation.
-  I'm eager to leverage this acquired knowledge, actively collaborating with highly motivated teams to foster significant personal and professional growth.
-</p> -->
-
 <br>
-
-<!-- <h2 align="center">Workshops 🌱</h2> -->
-
-<!--<p align="center"> -->
-<!--  Beyond my formal education, I have consistently sought out opportunities to expand my knowledge and skills. -->
-<!--  I believe in the power of lifelong learning, which has led me to pursue a variety of after-school courses at <a href="https://www.ccna.ro/">Hackademy</a>. -->
-<!-- </p> -->
 
 <h2 align="center">Connect with Me 🤝</h2>
 
