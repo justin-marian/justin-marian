@@ -6,7 +6,7 @@
 
 <h2 align="center">About me 🙂</h2>
 
-<img src="/pictures/1.png" align="right" width="250" />
+<img src="/pictures/1.png" align="right" width="250"/>
 
 <p align="center"> 
   As a fourth-year Computer Science student, I am driven by curiosity and a relentless pursuit of knowledge. 🚀 My journey blends hands-on experience in programming, algorithms, and systems engineering with a strong commitment to problem-solving. 💻
@@ -22,9 +22,9 @@
 
 <h2 align="center">Education 👨‍🎓</h2>
 
-<img src="/pictures/2.png" align="left" width="200" />
+<img src="/pictures/2.png" align="left" width="200"/>
 
-<p align="center" style="margin-bottom: 5px;"> 
+<p align="center"> 
   As I complete my engineering studies, I'm eager to transition <strong><em>from academia</em></strong> 🏫 to the <strong><em>engineering industry</em></strong> 💼. My time at the <code>Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest</code> has strengthened my technical expertise and adaptability. Now, I'm eager to take on new challenges, make an impact, and grow in a dynamic environment. 🚀
 </p>
 
