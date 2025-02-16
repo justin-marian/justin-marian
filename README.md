@@ -18,7 +18,7 @@
   This clearly reflects my deep dedication and proactive, resilient approach towards skillfully navigating complex challenges.
 </p> -->
 
-<br>
+<br><br>
 
 <h2 align="center">Education 👨‍🎓</h2>
 
