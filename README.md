@@ -76,7 +76,6 @@
   <img src="/icons/scala-original.svg" width="40" alt="Scala">&nbsp;&nbsp;&nbsp;
   <img src="/icons/flask-original.svg" width="40" alt="Flask">&nbsp;&nbsp;&nbsp;
   <img src="/icons/latex-original.svg" width="40" alt="LaTeX">&nbsp;&nbsp;&nbsp;
-  <img src="/icons/haskell-original.svg" width="40" alt="Haskell">&nbsp;&nbsp;&nbsp;
   <img src="/icons/html5-original.svg" width="40" alt="HTML5">&nbsp;&nbsp;&nbsp;
   <img src="/icons/css3-original.svg" width="40" alt="CSS3">&nbsp;&nbsp;&nbsp;
   <img src="/icons/javascript-original.svg" width="40" alt="JavaScript">&nbsp;&nbsp;&nbsp;
@@ -90,6 +89,7 @@
   <img src="/icons/visualstudio-plain.svg" width="40" alt="Visual Studio">&nbsp;&nbsp;&nbsp;
   <img src="/icons/intellij-original.svg" width="40" alt="IntelliJ">&nbsp;&nbsp;&nbsp;
   <img src="/icons/pycharm-original.svg" width="40" alt="PyCharm">&nbsp;&nbsp;&nbsp;
+  <img src="/icons/haskell-original.svg" width="40" alt="Haskell">&nbsp;&nbsp;&nbsp;
   <img src="/icons/oracledb-original.svg" width="40" alt="OracleDB">&nbsp;&nbsp;&nbsp;
   <img src="/icons/mysql-original-wordmark.svg" width="40" alt="MySQL">&nbsp;&nbsp;&nbsp;
   <img src="/icons/docker-original.svg" width="40" alt="Docker">
