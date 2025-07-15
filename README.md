@@ -23,7 +23,7 @@
 <img src="/pictures/2.png" align="left" width="200"/>
 
 <p align="center">
-  Currently enrolled in a two-year M.Sc. in Artificial Intelligence (2025-2027), I’m very interested in this field. I want to improve my skills, work on new AI projects and keep expanding my knowledge in the field. 💼
+  Currently enrolled in a two-year M.Sc. in Artificial Intelligence (2025-2027), I’m very interested in this field. I want to improve my skills and keep expanding my knowledge in the field, while pursuing hands-on research opportunities. 💼
 </p>
 
 <br>
