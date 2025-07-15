@@ -12,8 +12,8 @@
 
 <img src="/pictures/1.png" align="right" width="250" />
 
-<p align="center"> 
-  As a fourth-year Computer Science student, I am always eager to learn and push my skills further. 🚀 My journey has been shaped by hands-on experience in programming, algorithms, and systems engineering, allowing me to build efficient solutions and adapt to evolving technologies. 🤖
+<p align="center">
+  Having earned my B.Sc. in Computer Science, I’m now a qualified engineer with a proven track record of delivering end‑to‑end software solutions and optimizing system performance. 🤖
 </p>
 
 <br>
@@ -22,8 +22,8 @@
 
 <img src="/pictures/2.png" align="left" width="200"/>
 
-<p align="center"> 
-  The engineering studies have enhanced my analytical thinking and technical expertise at the <code>Faculty of Automatic Control and Computer Science, University of Politehnica Bucharest</code> 🏫 has given me a solid foundation in computational principles and problem-solving strategies. Now, I’m looking forward to applying my knowledge in practical settings, exploring new challenges, and contributing to meaningful projects. 💼
+<p align="center">
+  Currently enrolled in a two‑year M.Sc. in Artificial Intelligence (2025–2027), I’m eager to collaborate on innovative AI projects, embrace emerging technologies and continuously expand my expertise. 💼
 </p>
 
 <br>
