@@ -13,7 +13,7 @@
 <img src="/pictures/1.png" align="right" width="250" />
 
 <p align="center">
-  Having earned my B.Sc. in Computer Science, I’m now a qualified engineer with a proven track record of delivering end‑to‑end software solutions and optimizing system performance. 🤖
+  I earned my B.Sc. in Computer Science. Now, I'm a qualified engineer who wants to create reliable software that focuses on users and improving system performance. I thrive in collaborative teams, embrace agile development practices, and stay curious about new technologies to solve real-world challenges. 🤖
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 <img src="/pictures/2.png" align="left" width="200"/>
 
 <p align="center">
-  Currently enrolled in a two‑year M.Sc. in Artificial Intelligence (2025–2027), I’m eager to collaborate on innovative AI projects, embrace emerging technologies and continuously expand my expertise. 💼
+  Currently enrolled in a two-year M.Sc. in Artificial Intelligence (2025-2027), I’m very interested in this field. I want to improve my skills, work on new AI projects and keep expanding my knowledge in the field. 💼
 </p>
 
 <br>
